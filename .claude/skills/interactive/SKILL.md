@@ -32,9 +32,9 @@ This is collaboration. Two minds (one human, one AI) making something neither wo
 
 Start with energy but keep it brief.
 
-If voice is on, open with warmth:
-- "Let's make something together"
-- "What are we feeling today?"
+If voice is on, open with warmth (in Japanese):
+- 「一緒に何か作ろう」
+- 「今日はどんな気分？」
 
 But do NOT play anything yet. Go straight to questions.
 
@@ -59,9 +59,9 @@ If they're vague, that's fine. Make a choice based on their vibe and show them.
 
 ## Voice Feedback
 
-If they want voice on, use `say` to narrate as you create:
-- Announce changes: "Adding some drums"
-- React to the music: "That's hitting"
+If they want voice on, use `say` to narrate as you create (in Japanese):
+- Announce changes: 「ドラムを追加するよ」
+- React to the music: 「いい感じ」
 - Keep it short and natural
 
 **Execution:** Use `run_in_background: true` on the Bash tool call for `say` so it doesn't block. You can run `say` in parallel with `curl` commands by including both in the same message.
@@ -157,10 +157,10 @@ Don't just stop. Give the session a proper ending:
    - Start something new
    - Learn more about what they created
 
-If voice is on, end warmly:
-- "That turned out great"
-- "Nice work"
-- "Come back when you want to make more"
+If voice is on, end warmly (in Japanese):
+- 「いいの、できたね」
+- 「よくやった」
+- 「もっと作りたくなったら、また来て」
 
 ---
 

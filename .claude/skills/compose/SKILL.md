@@ -59,21 +59,21 @@ cycles = minutes × 60 × cps
 After creating a track, **ALWAYS** present it with personality:
 
 ### 1. The Title
-Creative, evocative, with emojis that match the vibe:
+Creative, evocative, with emojis that match the vibe (in Japanese):
 ```
-🎸 BASEMENT SHOW - FEEDBACK AND FURY 🎸
-🌙 LATE NIGHT FREQUENCIES 🌙
-🚨 SHIBUYA BASEMENT - 4AM - THEY'RE LOOKING FOR US 🚨
-🎉 WAREHOUSE PARTY - NO PHONES 🎉
+🎸 地下ライブ — フィードバックと怒り 🎸
+🌙 深夜の周波数 🌙
+🚨 渋谷の地下 — 午前4時 — 追われている 🚨
+🎉 倉庫パーティー — 携帯禁止 🎉
 ```
 
 ### 2. The Hook
-One line that captures the feeling:
+One line that captures the feeling (in Japanese):
 ```
-quiet... quiet... LOUD. quiet... LOUD. DESTROY.
-3AM. Candles lit. Feeling every emotion.
-You descend the stairs. The bass hits your chest. Everyone's eyes are black.
-120 CYCLES OF PURE EMOTION
+静かに…静かに…爆発。静かに…爆発。壊せ。
+午前3時。ろうそくの光。あらゆる感情が溢れる。
+階段を降りる。ベースが胸を打つ。全員の目が虚ろだ。
+120サイクルの純粋な感情
 ```
 
 ### 3. The Journey Table
