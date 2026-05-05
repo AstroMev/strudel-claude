@@ -25,17 +25,20 @@ $: note("<c2 eb2 f2 g2>").s("sawtooth").lpf(400)
 ## Quick Start
 
 **1. Start the server**
+
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 **2. Open Claude Code in the project folder**
+
 ```bash
 claude
 ```
 
 **3. Ask for any skill**
+
 ```
 "Teach me Strudel"          → /tutorial
 "Play me a techno set"      → /dj-set
