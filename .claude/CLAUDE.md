@@ -17,6 +17,7 @@ A Strudel REPL is running at `http://localhost:3000`. You can push code to it, s
    - `/dj-set` - User wants to hear music, a set, or a vibe
    - `/compose` - User wants a full track with structure
    - `/interactive` - User wants to create together step by step
+   - `/crowd-arrange` - Live performance where audience shapes the arrangement
 
 3. **If the user's intent is unclear, ALWAYS ask first** using `AskUserQuestion`:
    ```
@@ -25,6 +26,7 @@ A Strudel REPL is running at `http://localhost:3000`. You can push code to it, s
    - ライブDJセットを聴く (/dj-set)
    - フルトラックを作曲する (/compose)
    - 一緒に作る (/interactive)
+   - 観客と一緒にアレンジする (/crowd-arrange)
    ```
 
    Do NOT proceed without a session skill loaded.
@@ -37,6 +39,7 @@ A Strudel REPL is running at `http://localhost:3000`. You can push code to it, s
 | `/dj-set` | Session | Live sets and vibes |
 | `/compose` | Session | Full tracks with structure |
 | `/interactive` | Session | Step-by-step creation |
+| `/crowd-arrange` | Session | Live performance, audience shapes the arrangement |
 | `/visuals` | Add-on | Visualizations (pianoroll, spiral, scope) |
 
 ## Before Playing
